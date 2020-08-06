@@ -1,46 +1,38 @@
-# 05 Third-Party APIs: Work Day Scheduler
+### Objective:
 
-Create a simple calendar application that allows the user to save events for each hour of the day. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+This is an app that will test your knowledge of famous quotes from Star Wars
+characters.
 
-You'll need to use the [Moment.js](https://momentjs.com/) library to work with date and time. Be sure to read the documentation carefully and concentrate on using Moment.js in the browser.
+ 
 
-## User Story
+### Audience:
 
-```
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
-```
+For any Star War affictionadoes willing to test their knowledge of the Star War
+series and characters.
 
-## Acceptance Criteria
+ 
 
-```
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar
-WHEN I scroll down
-THEN I am presented with timeblocks for standard business hours
-WHEN I view the timeblocks for that day
-THEN each timeblock is color coded to indicate whether it is in the past, present, or future
-WHEN I click into a timeblock
-THEN I can enter an event
-WHEN I click the save button for that timeblock
-THEN the text for that event is saved in local storage
-WHEN I refresh the page
-THEN the saved events persist
-```
+### Use:
 
-The following animation demonstrates the application functionality:
+Click Start to run a series of quotes from famous characters from the series.
 
-![day planner demo](./Assets/05-third-party-apis-homework-demo.gif)
+Select your choice of whom you think might have spoke the famous quote.
 
-## Review
+You have ten seconds to select an answer for each. If the correct answer is
+selected, a yellow dot will appear at the bottom right hand corner of your
+screen. If the answer is incorrect, a red dot will appear. When the quiz is
+over, your percentage of correct answer will show at the bottom right hand
+corner. a “game over” button will also appear. Press the button and it will take
+you a page that will allow you to leave your initials and your high score will
+appear(currently, I am unable to make the score appear at the high score page).
+At this page, a “Play Again” button will allow you to play the game again.
 
-You are required to submit the following for review:
+ 
 
-* The URL of the deployed application.
+### Link to App:
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+<https://richard2878.github.io/Week4-Quiz/>
 
-- - -
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+Git resource:
+
+<https://github.com/richard2878/Week4-Quiz>
